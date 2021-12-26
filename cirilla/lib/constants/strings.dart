@@ -2,7 +2,7 @@ class Strings {
   Strings._();
 
   // General
-  static const String appName = 'Bee Bremium';
+  static const String appName = 'Bee Premium';
   static const String fontFamily = 'Poppins';
   static const String tabActive = 'screens_home';
 
