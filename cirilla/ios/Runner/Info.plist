@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Cirilla Store</string>
+	<string>Bee Premium</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -36,7 +36,7 @@
             <string>app.mujezapremium.com</string>
             <key>CFBundleURLSchemes</key>
             <array>
-                <string>cirilla</string>
+                <string>Bee Premium</string>
             </array>
         </dict>
 	</array>
