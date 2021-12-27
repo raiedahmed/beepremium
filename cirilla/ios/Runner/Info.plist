@@ -36,7 +36,7 @@
             <string>app.mujezapremium.com</string>
             <key>CFBundleURLSchemes</key>
             <array>
-                <string>Bee Premium</string>
+                <string>beepremium</string>
             </array>
         </dict>
 	</array>
@@ -45,7 +45,7 @@
 	<key>FacebookAppID</key>
 	<string>609486200043266</string>
 	<key>FacebookDisplayName</key>
-	<string>BeePremium</string>
+	<string>beepremium</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
